@@ -25,6 +25,9 @@ import { useState } from "react";
 //         <p className="bg-slate-200 p-3 " onClick={() => addInput()}>
 //           Add Skills
 //         </p>
+// 
+//  console.log(inputList)
+// Output ====>>>>>> skills:['react', 'JS', 'FIrebase', 'CSS', 'HTML']
 
 
 const useDynamicInput = () => {
