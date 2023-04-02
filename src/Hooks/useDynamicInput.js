@@ -1,5 +1,5 @@
 import { useState } from "react";
-// 
+//    Guidelines for developer
 //   const [handleChange, addInput, removeInputList,inputList] = useDynamicInput() ///
 
 //   {inputList.map((item, index) => {
